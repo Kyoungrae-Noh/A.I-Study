@@ -13,5 +13,3 @@ It was trained on the [Div2K datset](https://data.vision.ee.ethz.ch/cvl/DIV2K/) 
 This is th ESPCN model with two convolution layers for feature maps extraction, and a sub-pixel convolution layer that aggregates the feature map from LR space and builds the SR image in a single step.
 
 ![Alt text](images/ESPCN.png?raw=true "ESPCN architecture")
-
-## Example
