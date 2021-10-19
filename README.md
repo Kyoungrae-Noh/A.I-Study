@@ -8,3 +8,6 @@ It was trained on the [Div2K datset](https://data.vision.ee.ethz.ch/cvl/DIV2K/) 
 -Tensorflow
 - numpy
 - cv2
+
+## ESPCN
+This is th ESPCN model with two convolution layers for feature maps extraction, and a sub-pixel convolution layer that aggregates the feature map from LR space and builds the SR image in a single step
